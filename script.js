@@ -38,7 +38,7 @@ var metal = new Image();
 metal.src = "assets/metal.png";
 
 var raf;
-var animationSpeed = 12;
+var animationSpeed = 10;
 var frame = 0;
 var paused = false;
 
